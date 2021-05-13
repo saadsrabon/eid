@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+:root {
+    --animate-delay: 2.5s;
+}
 .mainheader {
     display: flex;
     justify-content: center;
